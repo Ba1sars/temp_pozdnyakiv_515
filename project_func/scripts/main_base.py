@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def main():
     print("Моя первая попытка запустить проект!")
 
